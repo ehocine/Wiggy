@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "622652762906",
+    "project_id": "wiggy-e46f5",
+    "storage_bucket": "wiggy-e46f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622652762906:android:47f96c77816c152b82daa3",
+        "android_client_info": {
+          "package_name": "com.helic.wiggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622652762906-safc9o1u9r10ng71mra42q5hhpo1oif0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8Rrzxln1vCFmbDHcFZWd7yYdxAc04HX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622652762906-safc9o1u9r10ng71mra42q5hhpo1oif0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
